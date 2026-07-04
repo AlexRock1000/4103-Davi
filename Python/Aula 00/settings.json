@@ -1,0 +1,18 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u"
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python",
+    "explorer.confirmDragAndDrop": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true
+    
+}

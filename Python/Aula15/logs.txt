@@ -1,0 +1,1 @@
+Data e Hora: 2026-06-25 15:09:01, Cidade: Penha, IP: 192.168.100.103, Pasta: \\servidor\Alunos\4100 a 4199\4103 Davi\Python\Aula15

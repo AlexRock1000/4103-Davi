@@ -1,0 +1,26 @@
+aluno01 = ("Trump", 79, "1° serie")
+aluno02 = ("Lula", 83, "-1° serie")
+aluno03 = ("Boso", 69, "5° serie")
+nota_aluno01 = (3.43, 4.5)
+nota_aluno02 = (-9.73, -6.37)
+nota_aluno03 = (6.2, 2.3)
+
+nome01, idade01, ano01 = aluno01
+print(f"Nome: {nome01} - Idade: {idade01} - Ano: {ano01}")
+nota01_1, nota01_2 = nota_aluno01
+print(f"Notas de {nome01}: {nota01_1}, {nota01_2}")
+print("")
+nome02, idade02, ano02 = aluno02
+print(f"Nome: {nome02} - Idade: {idade02} - Ano: {ano02}")
+nota02_1, nota02_2 = nota_aluno02
+print(f"Notas de {nome02}: {nota02_1}, {nota02_2}")
+print("")
+nome03, idade03, ano03 = aluno03
+print(f"Nome: {nome03} - Idade: {idade03} - Ano: {ano03}")
+nota03_1, nota03_2 = nota_aluno03
+print(f"Notas de {nome03}: {nota03_1}, {nota03_2}")
+print("")
+
+print(f"Menor nota de {nome01}: {min(nota_aluno01)}")
+print(f"Maior nota de {nome02}: {max(nota_aluno02)}")
+print(f"Soma das notas de {nome03}: {sum(nota_aluno03)}")

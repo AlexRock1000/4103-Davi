@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.card-body p {
+    margin-bottom: 5px;
+}
+
+.card-body hr {
+    margin: 15px 0;
+}
+
+.resultado {
+    font-weight: bold;
+    color: #28a745;
+}
+
+.texto-pequeno {
+    font-size: 0.8rem;
+}

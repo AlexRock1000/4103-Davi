@@ -1,0 +1,46 @@
+.upload-preview {
+    max-width: 200px;
+    margin: 1rem 0;
+}
+
+.table-responsive {
+    overflow-x: auto;
+    width: 100%;
+}
+
+.hero.is-primary {
+    background-color: #00d1b2;
+}
+
+.box {
+    margin-top: 1rem;
+}
+
+.produto-item {
+    margin-bottom: 1.5rem;
+    border: 1px solid #ddd;
+    padding: 1rem;
+}
+
+/* Botão Voltar ao Topo */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    display: none;
+}
+
+.back-to-top:hover {
+    transform: scale(1.1);
+}
+
+/* Efeito de notificação */
+.notification {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 100;
+    max-width: 300px;
+    display: none;
+}
